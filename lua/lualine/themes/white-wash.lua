@@ -1,1 +1,1 @@
-return require('white-wash.integrations.lualine')
+return require('white-wash.integrations.lualine')()
