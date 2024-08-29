@@ -1,5 +1,5 @@
 local M = {
-	require("lualine.lua")
+	require("white-wash.lualine.lua")
 }
 
 return M
